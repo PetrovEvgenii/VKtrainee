@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RetrofitLesson</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="login_fragment_label">Login Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_Login_fragment">Hello Login fragment</string>
+    <string name="description_product">Description product</string>
+</resources>
